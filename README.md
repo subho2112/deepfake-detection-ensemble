@@ -1,6 +1,6 @@
 
 
-# Deepfake Detection Prototype
+# Deepfake Detection Ensemble
 
 ## Overview
 
