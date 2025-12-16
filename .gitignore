@@ -1,0 +1,53 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# Environment files (secrets)
+.env
+.env.*
+
+# IDE/editor artefacts
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Data / model artefacts (adjust paths as needed)
+# data/
+# datasets/
+*.h5
+*.ckpt
+*.pth
+*.pkl
+*.sqlite3
+
+# Packaging / build artefacts
+*.egg-info/
+Dist/
+build/
+*.egg
+
+# Test / coverage artefacts
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Miscellaneous
+*.db
+
+#gradio
+.gradio/
