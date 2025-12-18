@@ -51,3 +51,6 @@ htmlcov/
 
 #gradio
 .gradio/
+
+# Assets (images, media, etc.)
+assets/
