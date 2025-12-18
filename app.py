@@ -1,3 +1,4 @@
+#This is a demo app to test if gradio is running suucesfully or not
 import gradio as gr
 
 def greet(name):
