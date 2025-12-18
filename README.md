@@ -179,7 +179,7 @@ Although no notebook is provided, the application can be executed directly in **
 5. Run the application:
 
    ```bash
-   !python app.py
+   !python3 deepfake.py
    ```
 
 Gradio will generate a **public URL** in the output cell, which can be opened in a browser.
